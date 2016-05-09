@@ -1,0 +1,12 @@
+E:\CSharp\chip8\chip8\bin\Release\chip8.exe.config
+E:\CSharp\chip8\chip8\bin\Release\chip8.exe
+E:\CSharp\chip8\chip8\bin\Release\chip8.pdb
+E:\CSharp\chip8\chip8\bin\Release\OpenTK.dll
+E:\CSharp\chip8\chip8\bin\Release\OpenTK.GLControl.dll
+E:\CSharp\chip8\chip8\bin\Release\OpenTK.xml
+E:\CSharp\chip8\chip8\bin\Release\OpenTK.GLControl.xml
+E:\CSharp\chip8\chip8\obj\Release\chip8.Properties.Resources.resources
+E:\CSharp\chip8\chip8\obj\Release\chip8.Screen.resources
+E:\CSharp\chip8\chip8\obj\Release\chip8.csproj.GenerateResource.Cache
+E:\CSharp\chip8\chip8\obj\Release\chip8.exe
+E:\CSharp\chip8\chip8\obj\Release\chip8.pdb
